@@ -1,0 +1,44 @@
+{
+  "name": "babel-temple-cli",
+  "version": "0.0.0",
+  "description": "Babel Temple CLI.",
+  "main": "lib/cli.js",
+  "engines": {
+    "node": ">=6.12.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "babel-temple": "^0.5.1",
+    "kung-fig": "^0.50.2",
+    "utterminal": "^0.5.29"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cronvel/babel-temple-cli.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "Cédric Ronvel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cronvel/babel-temple-cli/issues"
+  },
+  "config": {
+    "tea-time": {
+      "coverDir": [
+        "lib"
+      ]
+    }
+  },
+  "copyright": {
+    "title": "Babel Temple CLI",
+    "years": [
+      2019
+    ],
+    "owner": "Cédric Ronvel"
+  }
+}
