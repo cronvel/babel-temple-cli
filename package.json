@@ -1,6 +1,6 @@
 {
   "name": "babel-temple-cli",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Babel Temple CLI.",
   "main": "lib/cli.js",
   "engines": {
@@ -9,10 +9,15 @@
   "directories": {
     "test": "test"
   },
+  "bin": {
+    "babel-temple": "./bin/babel-temple"
+  },
   "dependencies": {
     "babel-temple": "^0.5.1",
     "kung-fig": "^0.50.2",
-    "utterminal": "^0.5.29"
+    "seventh": "^0.7.18",
+    "terminal-kit": "^1.27.0",
+    "utterminal": "^0.5.30"
   },
   "devDependencies": {},
   "repository": {
