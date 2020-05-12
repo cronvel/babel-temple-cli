@@ -1,6 +1,6 @@
 {
   "name": "babel-temple-cli",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "description": "Babel Temple CLI.",
   "main": "lib/cli.js",
   "engines": {
@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "babel-temple": "^0.5.8",
-    "kung-fig": "^0.52.12",
+    "kung-fig": "^0.52.15",
     "seventh": "^0.7.35",
     "terminal-kit": "^1.35.2",
     "utterminal": "^0.5.43"
