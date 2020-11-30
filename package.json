@@ -1,6 +1,6 @@
 {
   "name": "babel-temple-cli",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "description": "Babel Temple CLI.",
   "main": "lib/cli.js",
   "engines": {
@@ -13,11 +13,11 @@
     "babel-temple": "./bin/babel-temple"
   },
   "dependencies": {
-    "babel-temple": "^0.5.8",
-    "kung-fig": "^0.52.15",
-    "seventh": "^0.7.35",
-    "terminal-kit": "^1.35.2",
-    "utterminal": "^0.5.43"
+    "babel-temple": "^0.5.10",
+    "kung-fig": "^0.54.4",
+    "seventh": "^0.7.38",
+    "terminal-kit": "^1.44.0",
+    "utterminal": "^0.5.44"
   },
   "devDependencies": {},
   "repository": {
@@ -42,7 +42,8 @@
   "copyright": {
     "title": "Babel Temple CLI",
     "years": [
-      2019
+      2019,
+      2020
     ],
     "owner": "Cédric Ronvel"
   }
